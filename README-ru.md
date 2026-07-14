@@ -1,7 +1,7 @@
 # Telegram-бот бот с ИИ-персонажем
 
-[![eng](https://img.shields.io/badge/lang-en-en?color=DCDCDC)](https://github.com/N0Fanru/ai-character-telebot/blob/master/README.md)
-[![rus](https://img.shields.io/badge/lang-ru-ru)](https://github.com/N0Fanru/ai-character-telebot/blob/master/README-ru.md)
+[![eng](https://img.shields.io/badge/lang-en-en?color=DCDCDC)](https://github.com/allcodny/ai-character-telebot/blob/master/README.md)
+[![rus](https://img.shields.io/badge/lang-ru-ru)](https://github.com/allcodny/ai-character-telebot/blob/master/README-ru.md)
 
 Telegram-бот с интеграцией ИИ (через OpenRouter) для генерации текстовых ответов от лица любого персонажа.
 
@@ -22,7 +22,7 @@ Telegram-бот с интеграцией ИИ (через OpenRouter) для г
    - Ключ [API OpenRouter](https://openrouter.ai/settings/keys) (Зарегистрироваться на сайте -> Create API Key -> Скопировать)
 
 2. Клонирование репозитория
-   <br>`git clone https://github.com/N0Fanru/ai-character-telebot`
+   <br>`git clone https://github.com/allcodny/ai-character-telebot`
    <br>*или*
    <br>скачать как ZIP файл и распаковать
 
