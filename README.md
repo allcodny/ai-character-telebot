@@ -1,7 +1,7 @@
 # AI Character Telegram Bot
 
-[![eng](https://img.shields.io/badge/lang-en-en)](https://github.com/N0Fanru/ai-character-telebot/blob/master/README.md)
-[![rus](https://img.shields.io/badge/lang-ru-ru?color=DCDCDC)](https://github.com/N0Fanru/ai-character-telebot/blob/master/README-ru.md)
+[![eng](https://img.shields.io/badge/lang-en-en)](https://github.com/allcodny/ai-character-telebot/blob/master/README.md)
+[![rus](https://img.shields.io/badge/lang-ru-ru?color=DCDCDC)](https://github.com/allcodny/ai-character-telebot/blob/master/README-ru.md)
 
 A Telegram bot with AI integration (via OpenRouter) for generating text responses in the persona of any character.
 
@@ -22,7 +22,7 @@ A Telegram bot with AI integration (via OpenRouter) for generating text response
    - [OpenRouter API key](https://openrouter.ai/settings/keys) (Sign up on the website -> Create API Key -> Copy)
 
 2. Clone repository
-   <br>`git clone https://github.com/N0Fanru/ai-character-telebot`
+   <br>`git clone https://github.com/allcodny/ai-character-telebot`
    <br>*or*
    <br>download as ZIP file and extract
 
