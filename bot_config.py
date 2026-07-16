@@ -12,10 +12,10 @@ SPECIAL_IDS=[]
 MAX_TRY=2
 
 # AI model for text generation
-MODEL="tngtech/deepseek-r1t-chimera:free"
+MODEL="deepseek/deepseek-r1"
 
 # AI model for image recognition
-MODEL_IM="mistralai/mistral-small-3.2-24b-instruct:free"
+MODEL_IM="nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"
 
 # The second model for image recognition, which will be used for the second and subsequent attempts
 MODEL_IM2="google/gemini-2.0-flash-exp:free"
